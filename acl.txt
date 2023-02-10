@@ -1,1 +1,1 @@
-version: cocoa;message_tr: Message
+version: vanilla;message_tr: Message
